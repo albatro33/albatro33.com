@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
-import App from 'shared/App';
+import Layout from 'shared/Layout';
 
 const Root = () => (
     <BrowserRouter>
-        <App />
+        <Layout />
     </BrowserRouter>
 );
 

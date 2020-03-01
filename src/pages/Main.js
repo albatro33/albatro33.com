@@ -1,6 +1,8 @@
 import React from 'react';
 
-const Main = () => {
+const Main = props => {
+    console.log(props);
+
     return (
         <div>
             <h2>
