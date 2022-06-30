@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from "react";
 import styled from "@emotion/styled";
 import { Box, Button, Markdown } from "grommet";
-import test1 from "../posts/test1.md";
+import post1 from "../posts/post1.md";
 import test2 from "../posts/test2.md";
 import test3 from "../posts/test3.md";
 
