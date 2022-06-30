@@ -15,7 +15,7 @@ const firstPage = `
 const Post = () => {
   const [md, setMd] = useState("");
 
-  const Posts = [test1, test2, test3];
+  const Posts = [post1, test2, test3];
 
   const renderMd = useCallback(
     (idx) => {
